@@ -87,11 +87,9 @@ export class   ApiService {
       .map((res: Response) => res.json());
   }
 
-  patch(path: string, authorizationType: AuthorizationType, body: Object = {},
-        params: URLSearchParams = new URLSearchParams()): Observable<any> {
+  patch(path: string, authorizationType: AuthorizationType, body: Object = {}, params: URLSearchParams = new URLSearchParams()): Observable<any> {
     return this.http.patch(
-      `${environment.base_url}${path}`,
-      authorizationType !== AuthorizationType.BASIC ? JSON.stringify(body) : body,
+      `${environment.base_url}${path}`, body,
       {headers: this.getHeaders(authorizationType), search: params},
     )
       .catch(this.catchError.bind(this))

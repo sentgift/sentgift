@@ -8,6 +8,7 @@ import {VkService} from '../../service/vk.service';
 })
 export class AppHeaderComponent implements OnInit {
   currentUser: any = null;
+
   constructor(private vkService: VkService, private ngZone: NgZone) {
 
   }
@@ -17,5 +18,4 @@ export class AppHeaderComponent implements OnInit {
       this.currentUser = response;
     });
   }
-
 }
