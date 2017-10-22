@@ -1,0 +1,35 @@
+{
+  "name": "good",
+  "plural": "goods",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "name": {
+      "type": "string",
+      "required": true
+    },
+    "vk_id": {
+      "type": "number",
+      "required": true
+    },
+    "thumbnail": {
+      "type": "string",
+      "required": true
+    },
+    "owner_id": {
+      "type": "number",
+      "required": true
+    },
+    "vk_group_id": {
+      "type": "number",
+      "required": true
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}

@@ -1,0 +1,51 @@
+{
+  "name": "order",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "vk_good_id": {
+      "type": "number",
+      "required": true
+    },
+    "image":{
+      "type":"string",
+      "required":true
+    },
+    "vk_community_id": {
+      "type": "number",
+      "required": true
+    },
+    "vk_customer_id": {
+      "type": "number",
+      "required": true
+    },
+    "vk_reciever_id": {
+      "type": "number",
+      "required": true
+    },
+    "creation_date": {
+      "type": "date",
+      "required": true
+    },
+    "status": {
+      "type": "string",
+      "required": true,
+      "default": "new"
+    },
+    "quantity":{
+      "type":"number",
+      "required":true
+    },
+    "comment":{
+      "type":"string",
+      "required":true
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}

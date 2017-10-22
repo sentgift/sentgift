@@ -1,0 +1,20 @@
+<div class="btn-group">
+
+  <button class="btn btn-default btn-lg dropdown-toggle"
+          type="button"
+          data-toggle="dropdown"
+          [title]="getLabel()"
+          aria-haspopup="true"
+          aria-expanded="false">
+    <span class="caret"></span>
+    <span style="text-overflow: ellipsis; display:block; width: 160px; overflow-x: hidden;">{{getLabel()}}</span>
+  </button>
+
+  <ul class="dropdown-menu">
+    <li *ngFor="let item of items">
+      <a (click)="onValueSelected(item, $event)" tabIndex="-1"><input type="checkbox" [checked]="checkIfChecked(item)"/>&nbsp;{{item.label}}</a>
+    </li>
+  </ul>
+
+</div>
+

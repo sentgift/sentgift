@@ -1,0 +1,10 @@
+/deep/ .padding-left-6 {
+  padding-left: 6px;
+}
+
+/deep/ .orange-button {
+  border-radius: 0;
+  height: 36px;
+  background: #ff9600;
+  font-family: Roboto-Condensed, sans-serif;
+}

@@ -1,0 +1,14 @@
+<div class="align-items-start d-flex vk-group-item">
+  <div class="d-flex">
+    <a [routerLink]="group.gid">
+      <img class="rounded-circle" [src]="group.photo_big" alt="Card image cap" style="width: 6rem; height: auto">
+    </a>
+  </div>
+  <div style="margin-left: 15px">
+    <h4 class="" style="text-overflow: ellipsis; overflow: hidden; white-space: normal; ">
+      {{group.name}}</h4>
+    <p class="" style="text-overflow: ellipsis; overflow: hidden; white-space: normal; height: 24px; max-width: 65%;">
+      {{group.description}}</p>
+  </div>
+</div>
+<hr>

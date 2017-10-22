@@ -1,0 +1,7 @@
+.vk-group-item {
+  cursor: pointer;
+}
+
+.vk-group-item:hover {
+  background-color: #efefef;
+}

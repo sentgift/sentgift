@@ -1,0 +1,84 @@
+<div *ngIf="!success" xmlns="http://www.w3.org/1999/html">
+  <div class="container-fluid" *ngIf="!isSendStep" style="align-content: center; margin-left: 10px;">
+    <div class="page_block_sub_header">
+      Выбор товара
+      <span class="page_block_sub_header_count" id="market_items_count">{{goods?.length}}</span>
+    </div>
+    <div class="market_list">
+      <div class="market_row" *ngFor="let good of goods" (click)="selectGood(good)">
+        <div class="good-item ">
+          <div class="photo-container">
+            <img [src]="good.thumb_photo" style="width: 179px; height: 179px;"/>
+          </div>
+          <div class="market-row-name">
+            <a>{{good?.title}}</a>
+          </div>
+          <div>
+            <a class="market_row_price">{{good?.price.text}}</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="container-fluid" *ngIf="isSendStep">
+    <div class="page_block_header clear_fix">
+      <div class="page_block_header_extra_left _header_extra_left"></div>
+      <div class="page_block_header_extra _header_extra"><a (click)="backClick()">Назад</a></div>
+      <div class="page_block_header_inner _header_inner">Отправка подарка: {{selectedGood.title}}</div>
+    </div>
+    <div class="content">
+      <h4 class="subheader ">Выберете пользователя</h4>
+    </div>
+
+    <div class="row">
+      <div class="col">
+        <div ngbDropdown class="d-inline-block" style="margin-left: 18px; width: 300px;">
+          <button class="btn btn-outline-primary" style="width: 100%" id="dropdownBasic1" ngbDropdownToggle>
+            {{selectedFriend ? selectedFriend.first_name + ' ' + selectedFriend.last_name : 'Выберите друга для
+            подарка'}}
+          </button>
+          <div ngbDropdownMenu aria-labelledby="dropdownBasic1">
+            <button class="dropdown-item" *ngFor="let friend of friends" (click)="selectFriend(friend)">
+              {{friend.first_name}} {{friend.last_name}}
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="content">
+      <h4 class="subheader ">Комментарий</h4>
+    </div>
+    <div class="row" style="margin-left: 18px;">
+      <textarea class="vk-input" style="width: 300px;" [(ngModel)]="comment"></textarea>
+    </div>
+
+    <div class="content">
+      <h4 class="subheader ">Количество</h4>
+    </div>
+    <div class="row" style="margin-left: 18px;">
+      <input class="vk-input" style="width: 300px;" [(ngModel)]="quantity"/>
+    </div>
+
+    <div class="content">
+      <h4 class="subheader ">Стоимость: {{selectedGood.price.amount * quantity}}
+        {{selectedGood.price.currency.name}}</h4>
+    </div>
+    <div class="row" style="margin-left: 18px;">
+      <input type="checkbox"/> <span class="form-check-label" style="margin-top: -5px">Отправить анонимно</span>
+    </div>
+    <div class="row" style="margin-left: 18px;">
+      <a class="flat-button" (click)="sendGift()">Отправить</a>
+    </div>
+
+  </div>
+</div>
+
+<div *ngIf="success"
+     style="display: flex;align-items: center;justify-content: center;height: 100%; flex-direction: column">
+  <div>
+    <img src="https://vk.com/images/stickers/3064/128.png"/>
+  </div>
+  <div>Запрос успешно отправлен! Дождитесь ответа администратора!</div>
+</div>

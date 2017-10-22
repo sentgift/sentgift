@@ -1,0 +1,64 @@
+.btn-group {
+  width: 100%
+}
+ button {
+  border-radius: 0;
+  border: 1px solid #e6e6e6;
+  width: 100%;
+  color: #93969b;
+  padding-left: 20px;
+  text-align: left;
+  font-size: 14px;
+  height: 40px;
+}
+
+.caret {
+  background: url("/assets/dropdown-caret.png");
+  border: none;
+  width: 12px;
+  height: 8px;
+  float: right;
+  margin-top: 5px;
+}
+
+/deep/ .dropdown {
+
+}
+
+/deep/ .dropdown .ui-select-toggle {
+  border-radius: 0;
+  border: 1px solid #e6e6e6;
+  width: 100%;
+  color: #93969b;
+  padding-left: 20px;
+  text-align: left;
+  font-size: 14px;
+  height: 40px;
+}
+
+/deep/ .dropdown .ui-select-search {
+  border-radius: 0;
+  height: 40px;
+  width: 100%;
+  line-height: 40px;
+}
+
+/deep/ .dropdown .ui-select-match-text {
+  line-height: 30px;
+}
+
+.dropdown-menu {
+  width: 100%;
+  max-height: 300px;
+  overflow: auto;
+  border-radius: 0 !important;
+}
+
+.dropdown-menu > li > a {
+  cursor: pointer;
+}
+
+/deep/ .dropdown .active a {
+  background-color: #ff9600 !important;
+}
+

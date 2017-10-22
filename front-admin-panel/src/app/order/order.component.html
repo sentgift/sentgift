@@ -1,0 +1,29 @@
+<div class="card-header centers">Заказы</div>
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-4 center">
+      <div class="row center">
+        <button type="button" class="btn btn-primary">Принять</button>
+      </div>
+      <div class="row center">
+        <button type="button" class="btn btn-secondary">Отменить</button>
+      </div>
+    </div>
+    <div class="col-8">
+      <div class="row">
+        <div class="card row" *ngFor="let order of vkOrders">
+          <div class="card-body"
+               style="width: 45em; height:25em; text-overflow: ellipsis; overflow: hidden; white-space: normal;">
+            <img class="center" style="width: 10em; height:15em;" [src]="order?.image" alt="Card image cap">
+          </div>
+          <div class="card-body col-6"
+               style="width: 10em; height:15em; text-overflow: ellipsis; overflow: hidden; white-space: normal;">
+            какойто текст описания
+          </div>
+
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>

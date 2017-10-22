@@ -1,0 +1,22 @@
+<div class="container">
+  <div class="row">
+    <div class="col-12">
+      <app-available-goods></app-available-goods>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-4">
+      <div class="card">
+        <div class="card-header">Администрируемые группы</div>
+        <div class="card-body" style=" height:600px;overflow-y: scroll;">
+          <app-available-group (click)="onGroupSelected(group.gid)" [group]="group" *ngFor="let group of availableGroups"></app-available-group>
+        </div>
+      </div>
+    </div>
+    <div class="col-7">
+      <h4>Товары в группе</h4>
+      <hr>
+      <app-group-view [groupId]="currentGid"></app-group-view>
+    </div>
+  </div>
+</div>

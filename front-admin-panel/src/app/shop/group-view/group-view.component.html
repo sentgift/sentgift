@@ -1,0 +1,18 @@
+<h4 *ngIf="isError">В выбранной группе нет продуктов</h4>
+<div *ngIf="!isError">
+  <div *ngFor="let good of goods">
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-2"><img [src]="good?.thumb_photo" class="" style="width: 5vw; height: 5vw;"/></div>
+        <div class="col-7">
+          <h4>{{good?.title}}</h4>
+          <span class="small">{{good?.price.text}}</span>
+        </div>
+        <div class="col-3">
+          <button class="btn btn-primary align-middle" style="cursor: pointer" (click)="addGood(good)">Добавить</button>
+        </div>
+      </div>
+    </div>
+    <hr>
+  </div>
+</div>

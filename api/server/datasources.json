@@ -1,0 +1,11 @@
+{
+  "db": {
+    "host": "31.186.100.185",
+    "port": 5432,
+    "database": "sentgift",
+    "username": "postgres",
+    "password": "postgres",
+    "name": "db",
+    "connector": "postgresql"
+  }
+}

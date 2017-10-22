@@ -1,0 +1,1409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="8" />
+    <option name="CUSTOM_SCOPE_NAME" value="Project Files" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a94c835e-42a2-4262-99ed-6e952bdf5630" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/dist/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="vk.service.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/core/service/vk.service.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="15" column="10" lean-forward="false" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tslint.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tslint.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-799">
+              <caret line="37" column="18" lean-forward="false" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="30" column="31" lean-forward="false" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="available-goods.component.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/shop/available-goods/available-goods.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="24" lean-forward="false" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="shop.module.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/shop/shop.module.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="19" column="2" lean-forward="false" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+                <marker date="1508629592344" expanded="true" signature="875:886" ph="[...]" />
+                <marker date="1508629592344" expanded="true" signature="875:1095" ph="{...}" />
+                <marker date="1508629592344" expanded="true" signature="1083:1095" ph="{...}" />
+                <marker date="1508629592344" expanded="true" signature="1092:1095" ph="{...}" />
+                <marker date="1508629592344" expanded="true" signature="1121:1124" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="shops.component.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/shop/shops/shops.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="25" column="12" lean-forward="false" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+              <folding>
+                <element signature="e#0#56#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="available-goods.component.spec.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/shop/available-goods/available-goods.component.spec.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#73#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="shops.component.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/shop/shops/shops.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="20" lean-forward="false" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+              <folding>
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="available-goods.component.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/shop/available-goods/available-goods.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="4" column="1" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+              <folding>
+                <element signature="e#0#48#0" expanded="true" />
+                <marker date="1508629592343" expanded="true" signature="383:743" ph="{...}" />
+                <marker date="1508629592343" expanded="true" signature="669:680" ph="{...}" />
+                <marker date="1508629592343" expanded="true" signature="669:723" ph="{...}" />
+                <marker date="1508629592343" expanded="true" signature="669:729" ph="{...}" />
+                <marker date="1508629592343" expanded="true" signature="669:740" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>handleDate</find>
+      <find>timeC</find>
+      <find>timeMas</find>
+      <find>show</find>
+      <find>адрес</find>
+      <find>по</find>
+      <find>event</find>
+      <find>searchModel.lati</find>
+      <find>ora</find>
+      <find>.orange-button</find>
+      <find>button</find>
+      <find>к</find>
+      <find>Location</find>
+      <find>#FF</find>
+      <find>descr</find>
+      <find>bodyTypePi</find>
+      <find>;;</find>
+      <find>;</find>
+      <find>agm</find>
+      <find>estimate</find>
+      <find>в любой</find>
+      <find>в</find>
+      <find>удобном</find>
+      <find>характеристики машины</find>
+      <find>параметры машины</find>
+      <find>бензин</find>
+      <find>пара</find>
+      <find>Doors</find>
+      <find>doors</find>
+      <find>doorsNumber</find>
+    </findStrings>
+    <dirStrings>
+      <dir>F:\work\useyourcar\frontend\src\app\core\components\button-add-photo</dir>
+      <dir>F:\work\useyourcar\frontend\src\app\car</dir>
+      <dir>F:\work\useyourcar\frontend\src\app\admin\service</dir>
+      <dir>F:\work\useyourcar\frontend\src\app</dir>
+      <dir>F:\work\useyourcar\frontend\src\app\search\components</dir>
+      <dir>F:\work\useyourcar\frontend\src\app\home\header</dir>
+      <dir>F:\work\useyourcar\frontend\src\app\home</dir>
+      <dir>F:\work\useyourcar\frontend\src\app\admin\control-panel</dir>
+      <dir>F:\work\useyourcar\frontend\src</dir>
+      <dir>F:\work\useyourcar\frontend</dir>
+      <dir>F:\work\useyourcar\frontend\src\app\search</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="hotfix/credit-card" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/app/core/components/button-add-photo/button-add-photo.component.css" />
+        <option value="$PROJECT_DIR$/src/app/car/car-info/car-info.component.ts" />
+        <option value="$PROJECT_DIR$/src/app/car/car-info/car-info.component.html" />
+        <option value="$PROJECT_DIR$/src/app/core/utils/vehicle-status.pipe.ts" />
+        <option value="$PROJECT_DIR$/src/app/profile/profile.module.ts" />
+        <option value="$PROJECT_DIR$/src/app/core/service/booking.service.ts" />
+        <option value="$PROJECT_DIR$/src/app/advert/view/rent-modal/rent-modal.component.ts" />
+        <option value="$PROJECT_DIR$/src/app/search/service/search.service.ts" />
+        <option value="$PROJECT_DIR$/src/app/search/components/search.component.ts" />
+        <option value="$PROJECT_DIR$/src/app/home/instructions/instructions.component.html" />
+        <option value="$PROJECT_DIR$/src/app/search/components/car-parameters/car-parameters.component.html" />
+        <option value="$PROJECT_DIR$/src/app/search/components/advert-parameters/advert-parameters.component.html" />
+        <option value="$PROJECT_DIR$/src/app/search/components/search.component.html" />
+        <option value="$PROJECT_DIR$/src/app/core/components/doors-selector/doors-selector.component.ts" />
+        <option value="$PROJECT_DIR$/src/app/home/header/renting-search/renting-search.component.html" />
+        <option value="$PROJECT_DIR$/src/app/core/utils/constants.ts" />
+        <option value="$PROJECT_DIR$/src/environments/environment.prod.ts" />
+        <option value="$PROJECT_DIR$/src/app/home/home.component.ts" />
+        <option value="$PROJECT_DIR$/src/app/core/components/app-header/app-header.component.ts" />
+        <option value="$PROJECT_DIR$/src/app/home/home.component.html" />
+        <option value="$PROJECT_DIR$/src/app/theme.scss" />
+        <option value="$PROJECT_DIR$/src/styles.css" />
+        <option value="$PROJECT_DIR$/.angular-cli.json" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/app/app.component.html" />
+        <option value="$PROJECT_DIR$/src/app/shop/list/list.component.html" />
+        <option value="$PROJECT_DIR$/src/app/shop/create/create.component.ts" />
+        <option value="$PROJECT_DIR$/src/app/shop/create-from/create-from.component.html" />
+        <option value="$PROJECT_DIR$/src/app/shop/create-from/create-from.component.ts" />
+        <option value="$PROJECT_DIR$/src/app/core/service/sentgift.service.ts" />
+        <option value="$PROJECT_DIR$/src/app/core/components/app-header/app-header.component.html" />
+        <option value="$PROJECT_DIR$/src/app/shop/available-group/available-group.component.ts" />
+        <option value="$PROJECT_DIR$/src/app/shop/create/create.component.html" />
+        <option value="$PROJECT_DIR$/src/app/shop/available-group/available-group.component.css" />
+        <option value="$PROJECT_DIR$/src/app/shop/available-group/available-group.component.html" />
+        <option value="$PROJECT_DIR$/src/environments/environment.ts" />
+        <option value="$PROJECT_DIR$/src/app/shop/shop-routing.module.ts" />
+        <option value="$PROJECT_DIR$/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/src/app/shop/shops/shops.component.ts" />
+        <option value="$PROJECT_DIR$/src/app/shop/shops/shops.component.html" />
+        <option value="$PROJECT_DIR$/src/app/shop/group-view/group-view.component.html" />
+        <option value="$PROJECT_DIR$/src/app/core/service/sent-gift-service.service.ts" />
+        <option value="$PROJECT_DIR$/src/app/core/index.ts" />
+        <option value="$PROJECT_DIR$/src/app/shop/group-view/group-view.component.ts" />
+        <option value="$PROJECT_DIR$/src/app/core/service/vk.service.ts" />
+        <option value="$PROJECT_DIR$/src/app/core/service/api.service.ts" />
+        <option value="$PROJECT_DIR$/src/app/core/service/sent-gift.service.ts" />
+        <option value="$PROJECT_DIR$/src/app/shop/shop.module.ts" />
+        <option value="$PROJECT_DIR$/src/app/shop/available-goods/available-goods.component.ts" />
+        <option value="$PROJECT_DIR$/src/app/shop/available-goods/available-goods.component.html" />
+        <option value="$PROJECT_DIR$/src/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupnpm">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="504" />
+    <option name="y" value="-13" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource ProjectPane="true" />
+      <autoscrollFromSource ProjectPane="true" />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="frontend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="frontend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.tslint" value="F:\work\useyourcar\frontend\node_modules\tslint" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="SearchEverywhereHistoryKey" value="searc&#9;FILE&#9;file://F:/work/useyourcar/frontend/src/app/search/service/search.service.ts&#10;book&#9;FILE&#9;file://F:/work/useyourcar/frontend/src/app/core/service/booking.service.ts&#10;AdvertSer&#9;null&#9;null&#10;profile-mo&#9;FILE&#9;file://F:/work/useyourcar/frontend/src/app/profile/profile-routing.module.ts&#10;car-inf&#9;FILE&#9;file://F:/work/useyourcar/frontend/src/app/car/car-info/car-info.component.html&#10;add-phot&#9;null&#9;null&#10;statuspi&#9;null&#9;null&#10;status&#9;null&#9;null&#10;user.ser&#9;FILE&#9;file://F:/work/useyourcar/frontend/src/app/core/service/user.service.ts&#10;Consta&#9;null&#9;null&#10;profile-cars&#9;null&#9;null&#10;Geo&#9;null&#9;null&#10;MapsApi&#9;null&#9;null&#10;Distance&#9;FILE&#9;file://F:/work/useyourcar/frontend/src/app/core/utils/distance-calculator.ts&#10;bodyT&#9;null&#9;null&#10;car-item&#9;FILE&#9;file://F:/work/useyourcar/frontend/src/app/core/components/car-item/car-item.component.html&#10;car-info&#9;FILE&#9;file://F:/work/useyourcar/frontend/src/app/car/car-info/car-info.component.html&#10;app-he&#9;null&#9;null&#10;photo&#9;null&#9;null&#10;search-res&#9;FILE&#9;file://F:/work/useyourcar/frontend/src/app/search/components/search-result/search-result.component.ts&#10;sear&#9;FILE&#9;file://F:/work/useyourcar/frontend/src/app/search/components/search.component.ts&#10;car-st&#9;FILE&#9;file://F:/work/useyourcar/frontend/src/app/car/add/add-car-step-2/add-car-step-2.component.html&#10;ыуф&#9;FILE&#9;file://F:/work/useyourcar/frontend/src/app/search/components/search.component.ts&#10;profile-pas&#9;FILE&#9;file://F:/work/useyourcar/frontend/src/app/profile/components/profile-passport/profile-passport.component.ts&#10;view.&#9;FILE&#9;file://F:/work/useyourcar/frontend/src/app/advert/view/view.component.html&#10;passport&#9;null&#9;null&#10;add-photo&#9;FILE&#9;file://F:/work/useyourcar/frontend/src/app/core/components/button-add-photo/button-add-photo.component.html&#10;advert-&#9;null&#9;null&#10;first-s&#9;FILE&#9;file://F:/work/useyourcar/frontend/src/app/search/components/first-search/first-search.component.html&#10;button&#9;FILE&#9;file://F:/work/useyourcar/frontend/src/app/core/components/button-add-photo/button-add-photo.component.ts&#10;image&#9;null&#9;null&#10;currentUser&#9;null&#9;null&#10;Constants&#9;FILE&#9;file://F:/work/useyourcar/frontend/src/app/core/utils/constants.ts&#10;Body&#9;null&#9;null&#10;prof&#9;FILE&#9;file://F:/work/useyourcar/frontend/src/app/profile/components/profile.component.html&#10;Const&#9;FILE&#9;file://F:/work/useyourcar/frontend/src/app/core/utils/constants.ts&#10;advert-st&#9;null&#9;null&#10;api.s&#9;FILE&#9;file://F:/work/useyourcar/frontend/src/app/core/service/api.service.ts&#10;auth&#9;FILE&#9;file://F:/work/useyourcar/frontend/src/app/auth/auth.component.ts&#10;environ&#9;FILE&#9;file://F:/work/useyourcar/frontend/src/environments/environment.prod.ts&#10;api.se&#9;FILE&#9;file://F:/work/useyourcar/frontend/src/app/core/service/api.service.ts&#10;step&#9;FILE&#9;file://F:/work/useyourcar/frontend/src/app/advert/add/step3/step3.component.ts&#10;api&#9;null&#9;null&#10;Constant&#9;FILE&#9;file://F:/work/useyourcar/frontend/src/app/core/utils/constants.ts&#10;first&#9;FILE&#9;file://F:/work/useyourcar/frontend/src/app/search/components/first-search/first-search.component.ts&#10;adve&#9;FILE&#9;file://F:/work/useyourcar/frontend/src/app/advert/advert.module.ts&#10;search&#9;FILE&#9;file://F:/work/useyourcar/frontend/src/app/search/components/search.component.ts&#10;geoco&#9;FILE&#9;file://F:/work/useyourcar/frontend/src/app/core/service/geocoding.service.ts&#10;advert-para&#9;null&#9;null&#10;button-ex&#9;null&#9;null" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="javascript.karma.karma_node_package_dir" value="$PROJECT_DIR$/node_modules/karma" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\work\useyourcar\frontend\src\app\core\utils" />
+      <recent name="F:\work\useyourcar\frontend\src\app\core\service" />
+      <recent name="F:\work\useyourcar\frontend\src\assets" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\work\sentgift\frontend\src\app\shop" />
+      <recent name="F:\work\useyourcar\frontend\src\assets" />
+      <recent name="F:\work\useyourcar\frontend\src\app\admin" />
+      <recent name="F:\work\useyourcar\frontend\src\app\core\components" />
+      <recent name="F:\work\useyourcar\frontend\src\assets\favicon" />
+    </key>
+  </component>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/app/app.component.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/app/app.module.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/app/core/index.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/app/core/service/vk.service.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/app/shop/create-from/create-from.component.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/app/shop/group-view/group-view.component.ts</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/app/core/service/api.service.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/app/core/service/notification.service.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/app/core/service/token.service.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/app/core/service/vk.service.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/app/core/utils/authorization-type.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/app/order/order-routing.module.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/app/order/order.component.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/app/order/order.component.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/app/order/order.component.spec.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/app/order/order.component.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/app/order/order.module.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/app/single-good-view/single-good-view.component.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/app/single-good-view/single-good-view.component.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/app/single-good-view/single-good-view.component.spec.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/app/single-good-view/single-good-view.component.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/environments/environment.js</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/app/core/components/dropdown/dropdown.component.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/app/core/components/dropdown/dropdown.component.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/app/core/components/dropdown/dropdown.component.ts</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.Unnamed">
+    <configuration name="AdminService.should be created" type="JavaScriptTestRunnerKarma" factoryName="Karma" temporary="true" nameIsGenerated="true">
+      <config-file value="$PROJECT_DIR$/karma.conf.js" />
+      <karma-package-dir value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-names>
+        <test-name value="AdminService" />
+        <test-name value="should be created" />
+      </test-names>
+    </configuration>
+    <configuration name="AppComponent.should create the app" type="JavaScriptTestRunnerKarma" factoryName="Karma" temporary="true" nameIsGenerated="true">
+      <config-file value="$PROJECT_DIR$/karma.conf.js" />
+      <karma-package-dir value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-names>
+        <test-name value="AppComponent" />
+        <test-name value="should create the app" />
+      </test-names>
+    </configuration>
+    <configuration name="Unnamed" type="JavascriptDebugType" factoryName="JavaScript Debug" uri="http://localhost:4200">
+      <mapping url="webpack:" local-file="$PROJECT_DIR$/src" />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.Unnamed" />
+      <item index="1" class="java.lang.String" itemvalue="Karma.AppComponent.should create the app" />
+      <item index="2" class="java.lang.String" itemvalue="Karma.AdminService.should be created" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Karma.AdminService.should be created" />
+        <item index="1" class="java.lang.String" itemvalue="Karma.AppComponent.should create the app" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a94c835e-42a2-4262-99ed-6e952bdf5630" name="Default" comment="" />
+      <created>1505976679921</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1505976679921</updated>
+      <workItem from="1505976683299" duration="2719000" />
+      <workItem from="1505981431397" duration="32640000" />
+      <workItem from="1506083294995" duration="24831000" />
+      <workItem from="1506327736908" duration="971000" />
+      <workItem from="1506329151209" duration="19341000" />
+      <workItem from="1506449019757" duration="120678000" />
+      <workItem from="1507037628952" duration="171639000" />
+      <workItem from="1508316023147" duration="14303000" />
+      <workItem from="1508495250191" duration="26779000" />
+      <workItem from="1508573093103" duration="13237000" />
+      <workItem from="1508591602192" duration="3350000" />
+      <workItem from="1508629485676" duration="1683000" />
+    </task>
+    <task id="LOCAL-00041" summary="fixed merge errors">
+      <created>1507222651336</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1507222651336</updated>
+    </task>
+    <task id="LOCAL-00042" summary="fixed conflict values">
+      <created>1507225982376</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1507225982376</updated>
+    </task>
+    <task id="LOCAL-00043" summary="fixed errors in doors-selector-component">
+      <created>1507226921610</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1507226921610</updated>
+    </task>
+    <task id="LOCAL-00044" summary="removed profile info components">
+      <created>1507227358010</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1507227358010</updated>
+    </task>
+    <task id="LOCAL-00045" summary="fixed search">
+      <created>1507227953964</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1507227953964</updated>
+    </task>
+    <task id="LOCAL-00046" summary="fixed search">
+      <created>1507229811567</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1507229811567</updated>
+    </task>
+    <task id="LOCAL-00047" summary="fixed error message">
+      <created>1507275644641</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1507275644641</updated>
+    </task>
+    <task id="LOCAL-00048" summary="fixed searcging by seats count, models and doors count">
+      <created>1507282416445</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1507282416445</updated>
+    </task>
+    <task id="LOCAL-00049" summary="fixed small bugs">
+      <created>1507305293149</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1507305293149</updated>
+    </task>
+    <task id="LOCAL-00050" summary="removed buggy code">
+      <created>1507305565443</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1507305565444</updated>
+    </task>
+    <task id="LOCAL-00051" summary="handling city changed">
+      <created>1507305942546</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1507305942546</updated>
+    </task>
+    <task id="LOCAL-00052" summary="fixed search bugs with current city">
+      <created>1507307250209</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1507307250209</updated>
+    </task>
+    <task id="LOCAL-00053" summary="calculating delivery cost">
+      <created>1507310380413</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1507310380413</updated>
+    </task>
+    <task id="LOCAL-00054" summary="removed unused fields">
+      <created>1507397792610</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1507397792611</updated>
+    </task>
+    <task id="LOCAL-00055" summary="changed default step in advert">
+      <created>1507480486404</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1507480486404</updated>
+    </task>
+    <task id="LOCAL-00056" summary="changed error handling in frontend">
+      <created>1507530541101</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1507530541101</updated>
+    </task>
+    <task id="LOCAL-00057" summary="fixed failing of selecting models in search (FF)">
+      <created>1507536041747</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1507536041747</updated>
+    </task>
+    <task id="LOCAL-00058" summary="added protocol relative url">
+      <created>1507538038171</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1507538038171</updated>
+    </task>
+    <task id="LOCAL-00059" summary="fixed searhing if geolocation recieved successfully">
+      <created>1507539447529</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1507539447529</updated>
+    </task>
+    <task id="LOCAL-00060" summary="fixed setting address">
+      <created>1507539614805</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1507539614806</updated>
+    </task>
+    <task id="LOCAL-00061" summary="fixed selecting of default address">
+      <created>1507540087607</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1507540087607</updated>
+    </task>
+    <task id="LOCAL-00062" summary="fixed selecting of default address (2)">
+      <created>1507540735819</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1507540735819</updated>
+    </task>
+    <task id="LOCAL-00063" summary="fixed button of search">
+      <created>1507541179804</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1507541179804</updated>
+    </task>
+    <task id="LOCAL-00064" summary="fixed availability calendar">
+      <created>1507542765057</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1507542765058</updated>
+    </task>
+    <task id="LOCAL-00065" summary="fixed error in availability calendar">
+      <created>1507543364722</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1507543364722</updated>
+    </task>
+    <task id="LOCAL-00066" summary="fixed opening not completed vehicle">
+      <created>1507553969781</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1507553969781</updated>
+    </task>
+    <task id="LOCAL-00067" summary="added advert">
+      <created>1507554044646</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1507554044646</updated>
+    </task>
+    <task id="LOCAL-00068" summary="added count of days to advert view">
+      <created>1507562860628</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1507562860628</updated>
+    </task>
+    <task id="LOCAL-00069" summary="fixed searching">
+      <created>1507625666391</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1507625666391</updated>
+    </task>
+    <task id="LOCAL-00070" summary="fixed delivery radius">
+      <created>1507626737814</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1507626737814</updated>
+    </task>
+    <task id="LOCAL-00071" summary="fixed delivery radius">
+      <created>1507627873828</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1507627873828</updated>
+    </task>
+    <task id="LOCAL-00072" summary="fixed typo">
+      <created>1507627923864</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1507627923864</updated>
+    </task>
+    <task id="LOCAL-00073" summary="fixed typo">
+      <created>1507628052835</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1507628052835</updated>
+    </task>
+    <task id="LOCAL-00074" summary="fixed uploading of main passport photo">
+      <created>1507629743815</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1507629743815</updated>
+    </task>
+    <task id="LOCAL-00075" summary="filtering uploading images by size">
+      <created>1507638716395</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1507638716395</updated>
+    </task>
+    <task id="LOCAL-00076" summary="fixed pagination on search page">
+      <created>1507642702769</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1507642702769</updated>
+    </task>
+    <task id="LOCAL-00077" summary="fixed styles in photo modal">
+      <created>1507646459058</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1507646459058</updated>
+    </task>
+    <task id="LOCAL-00078" summary="test">
+      <created>1507723837083</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1507723837083</updated>
+    </task>
+    <task id="LOCAL-00079" summary="removed typo">
+      <created>1507723963422</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1507723963422</updated>
+    </task>
+    <task id="LOCAL-00080" summary="most fixes from second document">
+      <created>1508397876215</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1508397876215</updated>
+    </task>
+    <task id="LOCAL-00081" summary="most fixes from second document">
+      <created>1508399188047</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1508399188047</updated>
+    </task>
+    <task id="LOCAL-00082" summary="test">
+      <created>1508521917732</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1508521917732</updated>
+    </task>
+    <task id="LOCAL-00083" summary="refactored groups">
+      <created>1508535765354</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1508535765354</updated>
+    </task>
+    <task id="LOCAL-00084" summary="refactored groups">
+      <created>1508573521018</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1508573521019</updated>
+    </task>
+    <task id="LOCAL-00085" summary="removed java code">
+      <created>1508577832235</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1508577832235</updated>
+    </task>
+    <task id="LOCAL-00086" summary="removed java code">
+      <created>1508577955849</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1508577955849</updated>
+    </task>
+    <task id="LOCAL-00087" summary="removed java code">
+      <created>1508578027293</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1508578027293</updated>
+    </task>
+    <task id="LOCAL-00088" summary="dqw">
+      <created>1508584490320</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1508584490320</updated>
+    </task>
+    <task id="LOCAL-00089" summary="sdfsdfsdf">
+      <created>1508592847077</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1508592847077</updated>
+    </task>
+    <option name="localTasksCounter" value="90" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="AdminService_should_be_created - 2017.09.30 at 11h 57m 54s.xml">
+      <configuration name="AdminService.should be created" configurationId="JavaScriptTestRunnerKarma" />
+    </history-entry>
+    <history-entry file="AppComponent_should_create_the_app - 2017.09.28 at 18h 34m 35s.xml">
+      <configuration name="AppComponent.should create the app" configurationId="JavaScriptTestRunnerKarma" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="432171000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5125" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.4875" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2979415" sideWeight="0.484375" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3997833" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Duplicates" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936078" sideWeight="0.4953125" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/app/core/utils/authorization-type.js" />
+        <option value="$PROJECT_DIR$/src/app/core/service/vk.service.js" />
+        <option value="$PROJECT_DIR$/src/app/core/service/api.service.js" />
+        <option value="$PROJECT_DIR$/src/app/core/service/token.service.js" />
+        <option value="$PROJECT_DIR$/src/app/core/service/notification.service.js" />
+        <option value="$PROJECT_DIR$/src/environments/environment.js" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fixed searhing if geolocation recieved successfully" />
+    <MESSAGE value="fixed setting address" />
+    <MESSAGE value="fixed selecting of default address" />
+    <MESSAGE value="fixed selecting of default address (2)" />
+    <MESSAGE value="fixed button of search" />
+    <MESSAGE value="fixed availability calendar" />
+    <MESSAGE value="fixed error in availability calendar" />
+    <MESSAGE value="fixed opening not completed vehicle" />
+    <MESSAGE value="added advert" />
+    <MESSAGE value="added count of days to advert view" />
+    <MESSAGE value="fixed searching" />
+    <MESSAGE value="fixed delivery radius" />
+    <MESSAGE value="fixed typo" />
+    <MESSAGE value="fixed uploading of main passport photo" />
+    <MESSAGE value="filtering uploading images by size" />
+    <MESSAGE value="fixed pagination on search page" />
+    <MESSAGE value="fixed styles in photo modal" />
+    <MESSAGE value="removed typo" />
+    <MESSAGE value="added showing status to car view" />
+    <MESSAGE value="most fixes from second document" />
+    <MESSAGE value="test" />
+    <MESSAGE value="refactored groups" />
+    <MESSAGE value="removed java code" />
+    <MESSAGE value="dqw" />
+    <MESSAGE value="sdfsdfsdf" />
+    <option name="LAST_COMMIT_MESSAGE" value="sdfsdfsdf" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/app/search/models/search.model.ts</url>
+          <line>19</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/app/core/service/vk.service.ts</url>
+          <line>48</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="32" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/app/home/home.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="28" column="7" lean-forward="false" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/shop/list/list.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/home/home.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.angular-cli.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-170">
+          <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9093">
+          <caret line="5" column="96192" lean-forward="false" selection-start-line="5" selection-start-column="96192" selection-end-line="5" selection-end-column="96192" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/shop/create-from/create-from.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/core/service/sentgift.service.spec.ts" />
+    <entry file="file://$PROJECT_DIR$/src/app/core/service/city.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/typings.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/core/service/sentgift.service.ts" />
+    <entry file="file://$PROJECT_DIR$/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="6" lean-forward="false" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/shop/shops/shops.component.spec.ts" />
+    <entry file="file://$PROJECT_DIR$/src/app/shop/shops/shops.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/shop/create/create.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="2" lean-forward="true" selection-start-line="17" selection-start-column="2" selection-end-line="22" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/shop/available-group/available-group.component.spec.ts" />
+    <entry file="file://$PROJECT_DIR$/src/app/shop/create/create.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="16" column="4" lean-forward="false" selection-start-line="16" selection-start-column="4" selection-end-line="28" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/shop/available-group/available-group.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="1" lean-forward="false" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/shop/available-group/available-group.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="17" lean-forward="false" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/shop/available-group/available-group.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="50" lean-forward="false" selection-start-line="0" selection-start-column="50" selection-end-line="0" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/app.component.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/shop/group-view/group-view.component.spec.ts" />
+    <entry file="file://$PROJECT_DIR$/src/app/shop/create-from/create-from.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/shop/shop-routing.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="11" column="41" lean-forward="false" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="5650" column="1" lean-forward="false" selection-start-line="5650" selection-start-column="1" selection-end-line="5650" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/core/service/sent-gift-service.service.spec.ts" />
+    <entry file="file://$PROJECT_DIR$/src/app/core/index.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="502">
+          <caret line="58" column="20" lean-forward="false" selection-start-line="58" selection-start-column="20" selection-end-line="58" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/shop/group-view/group-view.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/environments/environment.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="2" lean-forward="false" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/core/service/notification.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/shop/group-view/group-view.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="91" lean-forward="false" selection-start-line="11" selection-start-column="91" selection-end-line="11" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/core/components/app-header/app-header.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/core/components/app-header/app-header.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="26" lean-forward="false" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/shop/group-view/group-view.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="32" column="28" lean-forward="true" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es6.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="102" column="4" lean-forward="false" selection-start-line="102" selection-start-column="4" selection-end-line="102" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/core/service/api.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="62" column="35" lean-forward="false" selection-start-line="62" selection-start-column="35" selection-end-line="62" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/core/service/sent-gift.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="58" lean-forward="false" selection-start-line="24" selection-start-column="58" selection-end-line="24" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/shop/shops/shops.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="20" lean-forward="false" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/shop/available-goods/available-goods.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="4" column="1" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+            <marker date="1508629592343" expanded="true" signature="383:743" ph="{...}" />
+            <marker date="1508629592343" expanded="true" signature="669:680" ph="{...}" />
+            <marker date="1508629592343" expanded="true" signature="669:723" ph="{...}" />
+            <marker date="1508629592343" expanded="true" signature="669:729" ph="{...}" />
+            <marker date="1508629592343" expanded="true" signature="669:740" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="31" lean-forward="false" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/shop/shops/shops.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="25" column="12" lean-forward="false" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/shop/shop.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="19" column="2" lean-forward="false" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+            <marker date="1508629592344" expanded="true" signature="875:886" ph="[...]" />
+            <marker date="1508629592344" expanded="true" signature="875:1095" ph="{...}" />
+            <marker date="1508629592344" expanded="true" signature="1083:1095" ph="{...}" />
+            <marker date="1508629592344" expanded="true" signature="1092:1095" ph="{...}" />
+            <marker date="1508629592344" expanded="true" signature="1121:1124" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/shop/available-goods/available-goods.component.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#73#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/shop/available-goods/available-goods.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="24" lean-forward="false" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/core/service/vk.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" column="10" lean-forward="false" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tslint.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-799">
+          <caret line="37" column="18" lean-forward="false" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
